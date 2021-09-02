@@ -1,5 +1,6 @@
 # BTD6-Insta-Farming
 Macros for farming insta monkeys. 
+
 Your monitor and in game resolutions will need to be set at 1920 X 1080 (fullscreen) in order for the placements to be correct.
 Once completed this repository should contain four different macros used for farming insta monkeys. You can use any combination of the macros based on your needs. During collection events I would recommend using the macro for Infernal due to it having the highest collection rewards, but once again use whatever macro(s) seem the most appealing to you.
 The four macros are Cubism, Downstream, Off the Coast, and Infernal (all of which take place on impoppable dificulty).
