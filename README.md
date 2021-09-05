@@ -9,7 +9,7 @@ Use Cubism for tier 0 to 2 instas, use Downstream for tier 1 to 3 instas, use Of
 
 Two very important things:
 1) While I personally do not believe that your account will get flagged or banned for using these macros, Ninja Kiwi has stated that they do not support the use of macros in the game, so please utilize these macros at your own risk.
-2) I have seen other macros that can potentially result in the macro continuing your game over and over again after dying and thus wasting all of your monkey money. I tried to design these macros with as little RNG as possible, and in all of the runs I have done on them I have never once game overed. That being said, do be weary that if for some reason you were to lose, these macros could spend some or all of your monkey money. Once again, please utilize these macros at your own risk.
+2) I have seen other macros that can potentially result in the macro continuing your game over and over again after dying and thus wasting all of your monkey money. I tried to design these macros with as little RNG as possible, and in all of the runs I have done on them I have never once game overed. That being said, do be weary that if for some reason you were to lose, these macros could spend some or all of your monkey money. Once again, please utilize these macros at your own risk. Also, be careful with running these macros unsupervised if you are close to leveling up as that will mess up the macro and you will need to restart it.
 
 If you have any questions or concerns about the macros, please leave a comment and I will try and help you to the best of my ability. 
 Overall, I hope these macros are able to improve your insta farming experience, good luck on your black borders!
