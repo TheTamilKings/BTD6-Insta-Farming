@@ -1,7 +1,7 @@
 # BTD6-Insta-Farming
-Macros for farming insta monkeys. 
+Macros for farming insta monkeys.
 
-The macros are intended for use with the current version of AutoHotkey (install at autohotkey.com if you don't already have it). Your monitor and in game resolutions will need to be set at 1920 X 1080 (fullscreen) in order for the placements to be correct.
+The macros are intended for use with the current version of AutoHotkey (install at autohotkey.com if you don't already have it). Your monitor and in game resolutions will need to be set at 1920 X 1080 (fullscreen) in order for the placements to be correct. To start the macro, enter into the map that you are playing on and press f6. To stop the macro after the end of the current loop press f7. To stop the macro instantly (and close the file) press control and escape. Benjamin is used as the hero in all of the macros.
 Once completed this repository should contain four different macros used for farming insta monkeys. You can use any combination of the macros based on your needs. During collection events I would recommend using the macro for Infernal due to it having the highest collection rewards, but once again use whatever macro(s) seem the most appealing to you.
 
 The four macros are Cubism, Downstream, Off the Coast, and Infernal (all of which take place on impoppable dificulty).
